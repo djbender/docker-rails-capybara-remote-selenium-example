@@ -1,0 +1,1 @@
+# docker-rails-capybara-remote-selenium-example
